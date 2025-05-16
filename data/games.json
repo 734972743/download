@@ -1,0 +1,49 @@
+{
+    "pcGame": [
+        {
+            "id": "game11",
+            "title": "蓝绿粉魔塔",
+            "imgNames":["蓝绿粉魔塔1.png","蓝绿粉魔塔2.png","蓝绿粉魔塔3.png"],
+            "size": "25.7MB",
+            "date": "2025-05-16",
+            "category": "电脑端",
+            "desc": "一天蓝绿粉一家三口去一座魔塔探险，在魔塔里他们遇到了各种怪物和陷阱，他们能否成功走出魔塔呢？ <br>这个魔塔跟传统的魔塔不同的是，玩家一个人操控三个角色进行游戏",
+            "src": "https://pb-download.oss-cn-beijing.aliyuncs.com/%E8%93%9D%E7%BB%BF%E7%B2%89%E9%AD%94%E5%A1%94/%E8%93%9D%E7%BB%BF%E7%B2%89%E9%AD%94%E5%A1%94%E9%AD%94%E5%A1%94window%E7%89%88%E6%9C%AC.rar"        },
+        {
+            "id": "game12",
+            "title": "野比大雄的生化危机",
+            "imgNames":["野比大雄的生化危机1.png","野比大雄的生化危机2.png","野比大雄的生化危机3.png"],
+            "size": "77.2MB",
+            "date": "2025-05-16",
+            "category": "电脑端",
+            "desc": "游戏讲述了2004年7月28日哆啦A梦邀请我们去了无人岛。在没有任何人打扰下,我们尽情的玩了好几天。结果回来后， 迎接我们却时可怕的。。。<br>该游戏将哆啦A梦和生化危机巧妙的结合在一起，给玩家不同的游戏体验。",
+            "src": "https://pb-download.oss-cn-beijing.aliyuncs.com/%E9%87%8E%E6%AF%94%E5%A4%A7%E9%9B%84%E7%9A%84%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA.rar"
+        }
+    ],
+    "mobileGame": [
+        {
+            "id": "game21",
+            "title": "蓝绿粉魔塔",
+            "imgNames":["蓝绿粉魔塔1.png","蓝绿粉魔塔2.png","蓝绿粉魔塔3.png"],
+            "size": "69.5MB",
+            "date": "2025-05-16",
+            "category": "安卓端",
+            "desc": "一天蓝绿粉一家三口去一座魔塔探险，在魔塔里他们遇到了各种怪物和陷阱，他们能否成功走出魔塔呢？ <br>这个魔塔跟传统的魔塔不同的是，玩家一个人操控三个角色进行游戏",
+            "src": "https://pb-download.oss-cn-beijing.aliyuncs.com/%E8%93%9D%E7%BB%BF%E7%B2%89%E9%AD%94%E5%A1%94/%E8%93%9D%E7%BB%BF%E7%B2%89%E9%AD%94%E5%A1%94.apk"
+        }
+       
+    ],
+    "slides": [
+        {
+            "id": "game11",
+            "title": "蓝绿粉魔塔",
+            "imgNames":["蓝绿粉魔塔1.png"]
+        },
+        {
+            "id": "game12",
+            "title": "野比大雄的生化危机",
+            "imgNames":["野比大雄的生化危机1.png"]
+        }
+    ]
+    
+}

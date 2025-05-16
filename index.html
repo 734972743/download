@@ -3,27 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>我的资源下载网站</title>
-    <link rel="./css/stylesheet" href="styles.css">
+    <title>游戏资源下载站</title>
+    <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
     <header>
-        <h1  class="my_center">资源下载中心</h1>
-    </header>
-    <main>
-        <div class="resource-list">
-            <!-- 资源项示例 -->
-            
-            <div class="resource-item">
-                <h2>野比大雄的生化危机</h2>
-                <p>野比大雄的生化危机</p>
-                <a href="https://pb-download.oss-cn-beijing.aliyuncs.com/%E9%87%8E%E6%AF%94%E5%A4%A7%E9%9B%84%E7%9A%84%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA.rar" class="download-btn">下载</a>
-            </div>
+        <div class="logo">
+            <h1><a href="/">游戏资源站</a></h1>
         </div>
+        <nav>
+            <ul>
+                <li><a href="/">首页</a></li>
+                <li><a href="#pc-games">PC游戏</a></li>
+                <li><a href="#mobile-games">手游</a></li>
+            </ul>
+        </nav>
+        <div class="search">
+            <input type="text" placeholder="搜索游戏...">
+            <button>搜索</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="banner">
+            <!-- 轮播图区域 -->
+            <div class="slider">
+                <!-- 通过JS动态加载 -->
+            </div>
+        </section>
+
+        <section class="pc-games">
+            <h2>电脑版</h2>
+            <div class="game-list" id="pc-games">
+            </div>
+        </section>
+
+        <section class="mobile-games">
+            <h2>安卓版</h2>
+            <div class="game-list" id="mobile-games">
+            </div>
+        </section>
     </main>
+
     <footer>
-        <p>&copy; 2025 资源下载网站 版权所有</p>
+        <p>&copy; 2025 游戏资源站. 所有权利保留.</p>
     </footer>
-    <script src="script.js"></script>
+
+    <script src="/js/main.js"></script>
 </body>
 </html>
